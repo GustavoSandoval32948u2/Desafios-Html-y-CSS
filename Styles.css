@@ -1,0 +1,160 @@
+body {
+
+    background-color: rgb(205, 203, 203);
+}
+
+
+.imagen-titulo {
+
+    display: flex;
+    justify-content: center;
+    height: 250px;
+
+}
+
+.titulo {
+
+    display: flex;
+    justify-content: center;
+    color: black;
+    background-color: aquamarine;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: gray;
+    border-radius: 20px;
+    border-style: solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.eslogan {
+
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    color: rgb(74, 28, 116);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.menu-navegacion {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.menu li {
+
+    font-weight: bold;
+    color: rgb(163, 34, 34);
+    margin: 0 20px;
+    
+}
+
+
+p {
+
+    text-align: justify;
+    margin-top: 5px;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.imagenes {
+    margin: 15px;
+}
+
+.imagenes img {
+    width: 280px; 
+    height: 250px; 
+}
+
+.cemento {
+
+    margin-bottom: 5px;
+
+}
+
+.block {
+
+    margin-bottom: 5px;
+
+}
+
+.piso {
+
+    margin-bottom: 5px;
+}
+
+.teja {
+
+    margin-bottom: 5px;
+}
+
+.galeria-proyectos {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.imagenes-proyectos {
+    margin: 15px;
+}
+
+.imagenes-proyectos img {
+    width: 380px; 
+    height: 300px;
+
+}
+
+.titulo-final {
+
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 40px;
+
+}
+
+.final h4 {
+
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.titulo-redes {
+
+    color: rgb(15, 152, 152);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+
+}
+
+.redes {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+
+}
